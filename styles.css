@@ -73,5 +73,14 @@ body {
 }
 .banner-image img{
   width: 100%;
- 
 }
+.sponsors{
+ margin: 0 auto;
+margin-top:70px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 50px;  
+}
+
+   
