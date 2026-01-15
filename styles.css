@@ -1,0 +1,77 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body {
+  font-family: "Poppins", sans-serif;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color:rgba(58, 58, 58, 1);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.menu li a:hover {
+  color: #2ce062d0;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 85px;
+    
+}
+.banner-title{
+   font-size: 3.2rem;
+   font-weight: 400px;
+   color: #3A3A3A;
+     margin-bottom: 10px;
+
+}
+.banner-description{
+    width: 505px;
+   font-size: 1 rem;
+   font-weight: 600;
+   margin-bottom: 10px;
+}
+.btn{
+    padding: 10px 24px;
+    border-radius: 41px;
+    background-color: #E02C6D;
+    color: #FFFFFF;
+}
+.btn:hover{
+    background-color: blueviolet;
+}
+.banner-image{
+    background-image: url(images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-right: 100px;
+
+}
+.banner-image img{
+  width: 100%;
+ 
+}
