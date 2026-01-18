@@ -137,6 +137,28 @@ gap: 50px;
   color: rgba(128, 128, 128, 0.674);
    margin: 0;
 }
+.featured-container{
+  max-width: 1110px;
+  margin: 100px auto;
+   display: flex;
+    gap: 96px;
+}
+.featured-image img{
+  border-radius: 10px;
+}
+.featured-title{
+  font-size: 38px;
+  font-weight: 700;
+  color:rgba(10, 8, 38, 1);
+  margin-bottom:20px;
+}
+.featured-discription{
+  font-size: 16px;
+  font-weight: 700;
+  color: rgba(108, 108, 108, 1);
+   margin-bottom: 30px;
+}
+
 
  @media screen and (max-width:576px){
  .card-container{
@@ -147,4 +169,17 @@ gap: 50px;
  
 }
  }
+
+ @media screen and (max-width:576px) {
+  .featured-container{
+    flex-direction: column;
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  .featured-title{
+    font-size: 28px;
+  }
+}
+
    
