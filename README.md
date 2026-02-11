@@ -1,8 +1,22 @@
 # Influencer Gears - E-commerce Website
 
+![Influencer Gears](./images/main-camera.png)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://tanzid-48.github.io/Influencer-gears_with_Responsive/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/tanzid-48/Influencer-gears_with_Responsive)
+[![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)](https://tanzid-48.github.io/Influencer-gears_with_Responsive/)
+
+</div>
+
+---
+
+## 📸 Preview
+
 A modern, fully responsive e-commerce landing page for influencer equipment and gear. Built with HTML and CSS, featuring a clean design optimized for all devices.
 
-🔗 **Live Demo:** [https://tanzid-48.github.io/Influencer-gears_with_Responsive/](https://tanzid-48.github.io/Influencer-gears_with_Responsive/)
+---
 
 ## 📋 Project Overview
 
@@ -10,16 +24,20 @@ Influencer Gears is a professional e-commerce website showcasing essential equip
 
 ## ✨ Features
 
-- **Fully Responsive Design** - Seamlessly adapts to desktop, tablet, and mobile devices
-- **Hero Section** - Engaging banner with call-to-action for pre-booking
-- **Brand Partnerships** - Showcase of major e-commerce platforms (Alibaba, Amazon, Daraz, eBay, Rakuten, Walmart, Target)
-- **Product Gallery** - Grid layout displaying popular collections with images and pricing
-- **Product Cards** - Each product includes image, name, price, and key features
-- **Featured Section** - Highlight of featured products with promotional content
-- **Clean Navigation** - Easy-to-use menu with Home, Product, Sign up, and Log In options
-- **Mobile-First Approach** - Optimized for mobile viewing experience
+- ✅ **Fully Responsive Design** - Seamlessly adapts to desktop, tablet, and mobile devices
+- ✅ **Hero Section** - Engaging banner with call-to-action for pre-booking
+- ✅ **Brand Partnerships** - Showcase of major e-commerce platforms
+- ✅ **Product Gallery** - Grid layout displaying popular collections with images and pricing
+- ✅ **Product Cards** - Each product includes image, name, price, and key features
+- ✅ **Featured Section** - Highlight of featured products with promotional content
+- ✅ **Clean Navigation** - Easy-to-use menu
+- ✅ **Mobile-First Approach** - Optimized for mobile viewing experience
 
 ## 🛠️ Technologies Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 
 - **HTML5** - Semantic markup structure
 - **CSS3** - Modern styling and responsive design
@@ -29,41 +47,57 @@ Influencer Gears is a professional e-commerce website showcasing essential equip
 
 ## 📱 Responsive Design
 
-The website is fully responsive and optimized for:
-- **Desktop** - Large screens (1200px+)
-- **Tablet** - Medium screens (768px - 1199px)
-- **Mobile** - Small screens (320px - 767px)
+<div align="center">
+
+| Device | Screen Size | Status |
+|--------|-------------|--------|
+| 💻 Desktop | 1200px+ | ✅ Optimized |
+| 📱 Tablet | 768px - 1199px | ✅ Optimized |
+| 📱 Mobile | 320px - 767px | ✅ Optimized |
+
+</div>
 
 ## 🎯 Product Categories
 
-### Popular Collection Includes:
+### Popular Collection
 
-1. **Flex Tripod** - $50.48
-2. **Microphone** - $120.25
-3. **Airbuds** - $100.48
-4. **Drone** - $950.38
-5. **Lights Setup** - $1,150.47
-6. **Photoshoot Set** - $850.38
-7. **Vlogging Camera** - Price on request
-8. **Green Screen** - $54.48
-9. **Action Camera** - $350.48
+<div align="center">
+
+| Product | Image | Price |
+|---------|-------|-------|
+| **Flex Tripod** | ![Tripod](./images/tripod.png) | $50.48 |
+| **Microphone** | ![Microphone](./images/mic.png) | $120.25 |
+| **Airbuds** | ![Airbuds](./images/airpod.png) | $100.48 |
+| **Drone** | ![Drone](./images/drone.png) | $950.38 |
+| **Lights Setup** | ![Lights](./images/lights.png) | $1,150.47 |
+| **Photoshoot Set** | ![Setup](./images/setup.png) | $850.38 |
+| **Vlogging Camera** | ![Camera](./images/camera.png) | Contact for price |
+| **Green Screen** | ![Green Screen](./images/single-light.png) | $54.48 |
+| **Action Camera** | ![Action Camera](./images/action.png) | $350.48 |
+
+</div>
 
 ### Product Features:
-- Worldwide shipping available
-- Buyer protection possible
-- Quality assurance
-- Competitive pricing
+- ✅ Worldwide shipping available
+- ✅ Buyer protection possible
+- ✅ Quality assurance
+- ✅ Competitive pricing
 
 ## 🏢 Partner Brands
 
-The platform features products from leading e-commerce platforms:
-- Alibaba
-- Amazon
-- Daraz
-- eBay
-- Rakuten
-- Walmart
-- Target
+<div align="center">
+
+![Alibaba](./logos/Alibaba.svg)
+![Amazon](./logos/Amazon.svg)
+![Daraz](./logos/Daraz.pk%20Logo.svg)
+![eBay](./logos/Ebay.svg)
+![Rakuten](./logos/Rakuten.svg)
+![Walmart](./logos/Walmart.svg)
+![Target](./logos/Target.svg)
+
+**7 Major E-commerce Platforms**
+
+</div>
 
 ## 🚀 Getting Started
 
@@ -73,26 +107,17 @@ The platform features products from leading e-commerce platforms:
 
 ### Installation
 
-1. Clone the repository
 ```bash
+# 1. Clone the repository
 git clone https://github.com/tanzid-48/Influencer-gears_with_Responsive.git
-```
 
-2. Navigate to the project directory
-```bash
+# 2. Navigate to the project directory
 cd Influencer-gears_with_Responsive
-```
 
-3. Open `index.html` in your browser
-```bash
-# On macOS
-open index.html
-
-# On Windows
-start index.html
-
-# On Linux
-xdg-open index.html
+# 3. Open index.html in your browser
+open index.html  # macOS
+start index.html # Windows
+xdg-open index.html # Linux
 ```
 
 ## 📁 Project Structure
@@ -136,29 +161,21 @@ Influencer-gears_with_Responsive/
 - **Card-based Layout** - Organized product presentation
 - **Hover Effects** - Interactive elements for better UX
 
-## 📐 CSS Features
-
-- Custom CSS properties (variables)
-- Flexbox for flexible layouts
-- CSS Grid for product gallery
-- Media queries for responsiveness
-- Smooth transitions and animations
-- Mobile-first CSS approach
-
 ## 🌟 Key Sections
 
 ### 1. Navigation Bar
-- Brand logo/name
-- Menu items (Home, Product, Sign up, Log In)
-- Search icon
-- Cart icon
+- Brand logo/name: **Influencer products**
+- Menu items: Home, Product, Sign up, Log In
+- Search and Cart icons
 - Fully responsive hamburger menu for mobile
 
 ### 2. Hero Section
-- Compelling headline: "Start your Journey as Influencer"
+- **Headline**: "Start your Journey as Influencer"
 - Descriptive text
 - "Prebook now" call-to-action button
 - Featured hero image
+
+![Hero Section](./images/main-camera.png)
 
 ### 3. Brand Logos Section
 - Display of 7 major e-commerce platform logos
@@ -171,6 +188,9 @@ Influencer-gears_with_Responsive/
 - Feature highlights
 
 ### 5. Featured Products Section
+
+![Featured Products](./images/gear.png)
+
 - Promotional content
 - "Join Now" call-to-action
 
@@ -199,11 +219,17 @@ To customize this project:
 
 ## 🌐 Browser Support
 
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Opera (latest)
+<div align="center">
+
+| Browser | Support |
+|---------|---------|
+| Chrome | ✅ Latest |
+| Firefox | ✅ Latest |
+| Safari | ✅ Latest |
+| Edge | ✅ Latest |
+| Opera | ✅ Latest |
+
+</div>
 
 ## 🚀 Deployment
 
@@ -252,4 +278,10 @@ For any questions or issues, please open an issue in the GitHub repository.
 
 ---
 
+<div align="center">
+
 **Made with ❤️ for aspiring influencers and content creators**
+
+⭐ Star this repo if you find it helpful!
+
+</div>
